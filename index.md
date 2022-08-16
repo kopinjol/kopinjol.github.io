@@ -1,6 +1,6 @@
 ## Kopinjol Baishya's Homepage.
 
-[Resume](kopinjol/main/Texinfo-Resume/rsm4.pdf)
+[Resume](kopinjol/Texinfo-Resume/rsm4.pdf)
 
 You can use the [editor on GitHub](https://github.com/kopinjol/kopinjol.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
